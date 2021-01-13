@@ -6,7 +6,7 @@
 //
 
 #define kAsyncDraw true // 异步开关
-#define kOnlyShowText true // 仅显示文本进行测试
+//#define kOnlyShowText true // 仅显示文本进行测试
 
 #define kCommonSpace 10.0
 #define kTitleHeight 30.0
